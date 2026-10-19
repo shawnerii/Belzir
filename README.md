@@ -1,4 +1,4 @@
-# Belzir — Coding Challenge Deliverables (Track A + Track B)
+# A Personal Coding Challenge (Track A + Track B)
 
 This repository contains both challenge tracks:
 - Track A: Simplified KeyCloak IAM (`Doc/KeyCloak.docx`)
