@@ -1,4 +1,4 @@
-# A Personal Coding Challenge (Track A + Track B)
+# iam-admin-and-alert-triage
 
 This repository contains both challenge tracks:
 - Track A: Simplified KeyCloak IAM (`Doc/KeyCloak.docx`)
